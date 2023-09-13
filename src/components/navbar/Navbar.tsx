@@ -4,8 +4,8 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <div className="logo">
-        <img src="logo.svg" alt="" />
-        <span>lamadmin</span>
+        <img src="logo.jpg" alt="" />
+        <span>devHuß</span>
       </div>
       <div className="icons">
         <img src="/search.svg" alt="" className="icon" />
@@ -17,10 +17,10 @@ const Navbar = () => {
         </div>
         <div className="user">
           <img
-            src="https://images.pexels.com/photos/11038549/pexels-photo-11038549.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
+            src="https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1600"
             alt=""
           />
-          <span>Jane</span>
+          <span>Koushik</span>
         </div>
         <img src="/settings.svg" alt="" className="icon" />
       </div>

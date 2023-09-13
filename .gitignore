@@ -19,6 +19,7 @@ dist-ssr
 .DS_Store
 .eslintrc.cjs
 .env
+.history
 yarn.lock
 *.suo
 *.ntvs*
