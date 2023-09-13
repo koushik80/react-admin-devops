@@ -13,7 +13,7 @@ variables:
   dockerRegistryServiceConnection: 'f0c07c61-9e18-4351-9b1e-6d95d55e499b'
   imageRepository: 'reactadmindash'
   containerRegistry: 'koushikadmin.azurecr.io'
-  dockerfilePath: 'docker/Dockerfile'
+  dockerfilePath: 'Dockerfile'
   tag: '$(Build.BuildId)'
 
   # Agent VM image name
