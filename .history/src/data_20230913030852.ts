@@ -119,8 +119,8 @@ export const topDealUsers = [
   {
     id: 1,
     img: "https://images.pexels.com/photos/8405873/pexels-photo-8405873.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    username: "Koushik Dey",
-    email: "koushik@gmail.com",
+    username: "Elva McDonald",
+    email: "elva@gmail.com",
     amount: "3.668",
   },
   {
@@ -148,7 +148,7 @@ export const topDealUsers = [
     id: 5,
     img: "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1600",
     username: "Dipok Sarker",
-    email: "dipok@gmail.com",
+    email: "juan@gmail.com",
     amount: "2.134",
   },
   {

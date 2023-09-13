@@ -119,8 +119,8 @@ export const topDealUsers = [
   {
     id: 1,
     img: "https://images.pexels.com/photos/8405873/pexels-photo-8405873.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    username: "Koushik Dey",
-    email: "koushik@gmail.com",
+    username: "Elva McDonald",
+    email: "elva@gmail.com",
     amount: "3.668",
   },
   {
